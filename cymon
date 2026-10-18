@@ -1,0 +1,12 @@
+print("===== RECEIPT =====") 1
+item = inpt("Item: ")
+price = float(input("Price: "))
+quality = int(input("Quantity: "))
+total = price * quantity
+prit("\n===== RECEIPT =====")
+print("Item:", item)
+print("Price: P", price)
+prit("Quantity:", quantity)
+print("Total: P", total)
+print("===================")
+print("Thank you!")
